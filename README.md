@@ -1,4 +1,4 @@
-# Analytical-Report-for-Superstore-Sales
+# Tableau Analytical-Report-for-Superstore-Sales
 
 This dashboard offers an overview of Superstore USA’s performance, focusing on sales, profit margins, return rates, and product categories. Key metrics include:
 
